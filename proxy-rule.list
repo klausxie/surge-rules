@@ -9,10 +9,15 @@ DOMAIN-SUFFIX, medium.com
 DOMAIN-SUFFIX, figma.com
 DOMAIN-SUFFIX, gmail.com
 DOMAIN-SUFFIX, pinterest.com
-DOMAIN-SUFFIX, twing.com
+DOMAIN-SUFFIX, twimg.com
 DOMAIN-SUFFIX, twitter.com
 DOMAIN-SUFFIX, plugins.jetbrains.com
 DOMAIN-SUFFIX, ytimg.com
 DOMAIN-SUFFIX, codota.com
 DOMAIN-SUFFIX, visualstudio.com
 DOMAIN-SUFFIX, raycast.com
+DOMAIN-SUFFIX, t.co
+
+IP-CIDR, 149.154.167.92/32
+IP-CIDR, 91.108.56.165/32
+IP-CIDR, 149.154.167.222/16
