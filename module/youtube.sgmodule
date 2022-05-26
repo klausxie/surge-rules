@@ -18,7 +18,7 @@ URL-REGEX,https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad,REJECT-TINYGIF
 AND,((PROTOCOL,UDP), (DEST-PORT,443)),REJECT-NO-DROP
 
 [URL Rewrite]
-ctier=[A-Z] citer=A 302
+ctier=[A-RT-Z] citer=A 302
 
 [Script]
 http-request https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A),script-path=https://raw.githubusercontent.com/klausxie/surge-settings/main/module/youtube.js
