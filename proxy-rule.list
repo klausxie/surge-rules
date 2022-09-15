@@ -5,6 +5,8 @@ DOMAIN-KEYWORD, rawgit
 
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, gitbook.com
+DOMAIN-SUFFIX, github.githubassets.com
+DOMAIN-SUFFIX, raw.githubusercontent.com
 DOMAIN-SUFFIX, medium.com
 DOMAIN-SUFFIX, figma.com
 DOMAIN-SUFFIX, gmail.com
@@ -17,6 +19,14 @@ DOMAIN-SUFFIX, codota.com
 DOMAIN-SUFFIX, visualstudio.com
 DOMAIN-SUFFIX, raycast.com
 DOMAIN-SUFFIX, t.co
+DOMAIN-SUFFIX, spring.io
+DOMAIN-SUFFIX, mybatis.org
+DOMAIN-SUFFIX, redd.it
+DOMAIN-SUFFIX, reddit.com
+DOMAIN-SUFFIX, hp.com
+DOMAIN-SUFFIX, v2ex.com
+DOMAIN-SUFFIX, cdn.jsdelivr.net
+
 
 IP-CIDR, 149.154.167.92/32
 IP-CIDR, 91.108.56.165/32
